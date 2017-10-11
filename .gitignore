@@ -1,0 +1,4 @@
+.idea/
+*.pyc
+tensorboard/
+data/imagenet-vgg-verydeep-19.mat
