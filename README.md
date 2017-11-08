@@ -1,4 +1,4 @@
-image style transfer
+# image style transfer
 
 `$ python style_transfer.py --content_image=data/content_image.jpg --style_image=data/style_image.jpg`
 
